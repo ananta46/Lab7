@@ -1,0 +1,11 @@
+# OS generated files #
+#####################
+
+.DSStore
+.DS_Store?
+.*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thoumbs.db
+has context menu 
